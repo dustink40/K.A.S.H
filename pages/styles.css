@@ -49,6 +49,7 @@ body {
 }
 
 .header-title h1 {
+    box-shadow: 15px 15px 12px rgb(3, 3, 145);
     width: 100%;
     font-weight: 700;
     font-size: 72px;
@@ -60,6 +61,7 @@ body {
 }
 
 .header-subtitle h2 {
+    box-shadow: 15px 15px 12px red;
     font-size: 20px;
     font-style: normal;
     font-weight: 400;
